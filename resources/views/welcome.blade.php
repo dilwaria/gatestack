@@ -666,7 +666,7 @@ v<!DOCTYPE html>
                                 <h4 class="name">Apurva</h4>
                                 
                                 <p class="desc">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo illo cupiditate temporibus sapiente, sint, voluptatibus tempora esse. Consectetur voluptate nihil quo nulla voluptatem dolorem harum nostrum
+                                    Gatestack is a great website for the Gate aspirants.This website is great for anyone from computer science background. I highly  recommend it. Here you can get all types of questions..topics related to gate preparations.
                                 </p>
                             </div>
                         </div>
@@ -680,7 +680,8 @@ v<!DOCTYPE html>
                                 <h4 class="name">Spriha</h4>
                                 
                                 <p class="desc">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo illo cupiditate temporibus sapiente, sint, voluptatibus tempora esse. Consectetur voluptate nihil quo nulla voluptatem dolorem harum nostrum
+                                    Gatestack provides me with a step by step guidance towards my Gate exam. It is an amazing portal
+for any aspiring student to use. It is a one stop solution to every Gate problem.
                                 </p>
                             </div>
                         </div>
@@ -693,7 +694,7 @@ v<!DOCTYPE html>
                                 <img class="img-circle" src="images/happy-client/img-3.jpg" alt="">
                             </div>
                             <div class="info">
-                                <h4 class="name">Shweta</h4>
+                                <h4 class="name">Mohit</h4>
                                 
                                 <p class="desc">
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo illo cupiditate temporibus sapiente, sint, voluptatibus tempora esse. Consectetur voluptate nihil quo nulla voluptatem dolorem harum nostrum
@@ -707,10 +708,10 @@ v<!DOCTYPE html>
                                 <img class="img-circle" src="" alt="">
                             </div>
                             <div class="info">
-                                <h4 class="name">Mohit</h4>
+                                <h4 class="name">Shweta</h4>
                                 <!-- <span class="regency">Graphic Design</span> -->
-                                <p class="desc">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo illo cupiditate temporibus sapiente, sint, voluptatibus tempora esse. Consectetur voluptate nihil quo nulla voluptatem dolorem harum nostrum
+                                <p class="desc">                               
+                       I have thoroughly enjoyed studying at GateStack. It played a vital role in enhancing my own skills while developing new ones. I came across a numerous interesting concepts  which are highly important for GATE Examinations while asking and answering questions on the site. 
                                 </p>
                             </div>
                         </div>
