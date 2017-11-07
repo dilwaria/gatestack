@@ -428,7 +428,7 @@ v<!DOCTYPE html>
                         <img class="img-responsive" src="images/picTeam/picT1.png">
                         <h4>Mukul Dilwaria</h4>
                         <h5>Founder</h5>
-                        <p>IIT Alum - .</p>
+                        <p>IIT Indore Alum </p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -442,7 +442,7 @@ v<!DOCTYPE html>
                         <img class="img-responsive" src="images/picTeam/picT2.png">
                         <h4>Tarun Prakash</h4>
                         <h5>CEO</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit<br/> quisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. adipiscing vitae vel quam proin eget mauris eget.</p>
+                        <p>IIT Indore Alum</p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -456,7 +456,7 @@ v<!DOCTYPE html>
                         <img class="img-responsive" src="images/picTeam/picT3.png">
                         <h4>Abhinav Sharma</h4>
                         <h5>CTO</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit<br/> quisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. adipiscing vitae vel quam proin eget mauris eget.</p>
+                        <p>PEC Alum</p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -469,7 +469,33 @@ v<!DOCTYPE html>
                         <img class="img-responsive" src="images/picTeam/picT1.png">
                         <h4>Ruturaj Mohanty</h4>
                         <h5>Product Manager</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit <br/>quisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. adipiscing vitae vel quam proin eget mauris eget.</p>
+                        <p>Bhuvaneshwar</p>
+                        <ul>
+                            <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter" ></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus-square"></i></a></li>
+                        </ul>
+                </div>
+
+                <div class="col-md-4 b1">
+                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <h4>Devendera Mittal</h4>
+                        <h5>Mentor</h5>
+                        <p>IIT Alum - Ex-WalmartLabs,Microsoft</p>
+                        <ul>
+                            <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter" ></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus-square"></i></a></li>
+                        </ul>
+                </div>
+
+                <div class="col-md-4 b1">
+                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <h4>Jaipreet</h4>
+                        <h5>Mentor</h5>
+                        <p>Air-7(GATE 2015) IIT, IIsc Alum</p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
