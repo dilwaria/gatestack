@@ -370,7 +370,7 @@
 
     <!-- Testimonial
     ================================================== -->
-    <section class="nino-testimonial">
+<!--     <section class="nino-testimonial">
         <div class="container">
             <div class="nino-testimonialSlider">
                 <ul>
@@ -410,7 +410,8 @@
                 </ul>
             </div>
         </div>
-    </section><!--/#nino-testimonial-->
+    </section> -->
+    <!--/#nino-testimonial-->
 
     <!-- Our Team
     ================================================== -->
@@ -426,7 +427,7 @@
             <div class="container">
             <div class="row team">
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <img class="img-circle" src="images/picTeam/picT1.png">
                         <h4>Mukul Dilwaria</h4>
                         <h5>Founder</h5>
                         <p>IIT Indore Alum </p>
@@ -440,7 +441,7 @@
             
             
                 <div class="col-md-4">
-                        <img class="img-responsive" src="images/picTeam/picT2.png">
+                        <img class="img-circle" src="images/picTeam/picT2.png">
                         <h4>Tarun Prakash</h4>
                         <h5>CEO</h5>
                         <p>IIT Indore Alum</p>
