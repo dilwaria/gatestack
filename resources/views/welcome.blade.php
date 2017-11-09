@@ -1,4 +1,4 @@
-v<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -277,7 +277,7 @@ v<!DOCTYPE html>
 
     <!-- Unique Design
     ================================================== -->
-    <section id="nino-uniqueDesign">
+<!--     <section id="nino-uniqueDesign">
         <div class="container">
             <h2 class="nino-sectionHeading">
                 <span class="nino-subHeading">For all devices</span>
@@ -290,7 +290,8 @@ v<!DOCTYPE html>
                 </div>
             </div>
         </div>
-    </section><!--/#nino-uniqueDesign-->
+    </section> -->
+    <!--/#nino-uniqueDesign-->
 
     <!-- What We Do
     ================================================== -->
