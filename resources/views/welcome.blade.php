@@ -25,6 +25,8 @@
     <meta property="og:description" content="Platform for Gate Aspirants on Computer Science &amp; Engineering and Information Technology. Online Institue for GATE" />
     <meta name="twitter:description" content="Platform for Gate Aspirants on Computer Science &amp; Engineering and Information Technology. Online Institue for GATE" />
 
+    <meta name="description" content="Gatestack is the best online institute that provides online coaching for GATE. We provide GATE learning, discussion and test series. Enroll with us for GATE and PSU Exam preparation." />
+    <meta name="keywords" content="Gatestack, gate stack, GATE, CSE , Computer Science , Information Technology, examination" />
 
 
     <!-- favicon -->
