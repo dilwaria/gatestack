@@ -4,10 +4,29 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="ninodezign.com, ninodezign@gmail.com">
-    <meta name="copyright" content="ninodezign.com"> 
-    <title>GateStack | An approach for cracking GATE</title>
+    <meta name="author" content="www.gatestack.com, contact@gatestack.in">
+    <meta name="copyright" content="www.gatestack.com"> 
+    <title>GateStack | An approach for cracking GATE| Online Institue for GATE</title>
+    <!-- meta  -->
     
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,  maximum-scale=1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="og:site_name" content="GateStack - Platform for GATE CSE| Online Institue for GATE" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content="https://www.gatestack.com/images/gatestack.png" />
+    <meta property="og:image" content="http://www.gatestack.com/images/gatestack.png" />
+    <meta property="og:url" content="https://www.gatestack.com/" />
+    <meta name="twitter:url" content="https://www.gatestack.com/" />
+    <meta property="og:title" content="GateStack - Platform for GATE CSE| Online Institue for GATE" />
+    <meta name="twitter:title" content="GateStack - Platform for GATE CSE| Online Institue for GATE" />
+    <meta property="og:description" content="Platform for Gate Aspirants on Computer Science &amp; Engineering and Information Technology. Online Institue for GATE" />
+    <meta name="twitter:description" content="Platform for Gate Aspirants on Computer Science &amp; Engineering and Information Technology. Online Institue for GATE" />
+
+
+
     <!-- favicon -->
     <link rel="shortcut icon" href="images/ico/favicon.png">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
@@ -427,7 +446,7 @@
             <div class="container">
             <div class="row team">
                 <div class="col-md-4 b1">
-                        <img class="img-circle" src="images/picTeam/picT1.png">
+                        <img class="img-responsive" src="images/picTeam/picT1.png">
                         <h4>Mukul Dilwaria</h4>
                         <h5>Founder</h5>
                         <p>IIT Indore Alum </p>
@@ -441,7 +460,7 @@
             
             
                 <div class="col-md-4">
-                        <img class="img-circle" src="images/picTeam/picT2.png">
+                        <img class="img-responsive" src="images/picTeam/picT2.png">
                         <h4>Tarun Prakash</h4>
                         <h5>CEO</h5>
                         <p>IIT Indore Alum</p>
@@ -751,7 +770,7 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
 
     <!-- Latest Blog
     ================================================== -->
-    <section id="nino-latestBlog">
+    <!-- <section id="nino-latestBlog">
         <div class="container">
             <h2 class="nino-sectionHeading">
                 <span class="nino-subHeading">Our stories</span>
@@ -819,11 +838,12 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                 </div>
             </div>
         </div>
-    </section><!--/#nino-latestBlog-->
+    </section> -->
+    <!--/#nino-latestBlog-->
 
     <!-- Map
     ================================================== -->
-    <section id="nino-map">
+   <!--  <section id="nino-map">
         <div class="container">
             <h2 class="nino-sectionHeading">
                 <i class="mdi mdi-map-marker nino-icon"></i>
@@ -834,7 +854,8 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                 <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d79466.26604960626!2d-0.19779784176715043!3d51.50733004537892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C+UK!3m2!1d51.5073509!2d-0.1277583!5e0!3m2!1sen!2s!4v1469206441744" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
-    </section><!--/#nino-map-->
+    </section> -->
+    <!--/#nino-map-->
     
     <!-- Footer
     ================================================== -->
