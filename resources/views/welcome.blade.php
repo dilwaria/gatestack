@@ -745,7 +745,7 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                                 <h4 class="name">Mohit</h4>
                                 
                                 <p class="desc">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo illo cupiditate temporibus sapiente, sint, voluptatibus tempora esse. Consectetur voluptate nihil quo nulla voluptatem dolorem harum nostrum
+                                    Gatestack provides the platform where a person can easily ask there doubts and can get answers from some of the best mentors. It is a platform which gives you an opportunity to discuss your view points. 
                                 </p>
                             </div>
                         </div>
