@@ -450,7 +450,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
             <div class="container">
             <div class="row team">
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <img class="img-responsive" src="images/picTeam/mukul.jpg">
                         <h4>Mukul Dilwaria</h4>
                         <h5>Founder</h5>
                         <p>IIT Indore Alum, Dreamer, Startup Junkie </p>
