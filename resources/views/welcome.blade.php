@@ -322,7 +322,8 @@
                 what we do
             </h2>
             <p class="nino-sectionDesc">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+               
+We rapid up the student preparation cycle for prestigious GATE EXAM by providing them with a  3 step process of Concept learning,Doubt Clearance followed b Evaluation . 
             </p>
             <div class="sectionContent">
                 <div class="row">
@@ -339,13 +340,14 @@
                                         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                             <i class="mdi mdi-chevron-up nino-icon arrow"></i>
                                             <i class="mdi mdi-camera nino-icon"></i> 
-                                            Photography
+                                            Concept Learning
                                         </a>
                                     </h4>
                                 </div>
                                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                     <div class="panel-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        A exhaustive archive of all Gate concepts made by Gate gurus  pin-pointing the core concepts followed by numerous examples.Focus is on  covering the most common doubts and eliminating the confusion among students thereby helping them understand a particular topic with full clarity.
+
                                     </div>
                                 </div>
                             </div>
@@ -355,13 +357,14 @@
                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                             <i class="mdi mdi-chevron-up nino-icon arrow"></i>
                                             <i class="mdi mdi-owl nino-icon"></i> 
-                                            creativity
+                                           Doubt Clearance
                                         </a>
                                     </h4>
                                 </div>
                                 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                     <div class="panel-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        A user friendly platform where the students can post their doubts and get help from gate mentors and their fellow students.The focus is on stacking quality answers on each topic thereby making it no 1 platform to seek help regarding Gate questions.
+
                                     </div>
                                 </div>
                             </div>
@@ -371,13 +374,13 @@
                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                             <i class="mdi mdi-chevron-up nino-icon arrow"></i>
                                             <i class="mdi mdi-laptop-mac nino-icon"></i> 
-                                            web design
+                                            Evaluation 
                                         </a>
                                     </h4>
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                     <div class="panel-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        Its not over until you can't track where you stand at present.The test series provided by Gatestack evaluates students on the core concepts needed to get a good listing in Gate exam so that students can identify their weak and strong areas and remodel their gate preparation strategy to get a better rank.
                                     </div>
                                 </div>
                             </div>
@@ -447,10 +450,10 @@
             <div class="container">
             <div class="row team">
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <img class="img-responsive" src="images/picTeam/mukul.jpg">
                         <h4>Mukul Dilwaria</h4>
                         <h5>Founder</h5>
-                        <p>IIT Indore Alum </p>
+                        <p>IIT Indore Alum, Dreamer, Startup Junkie </p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
