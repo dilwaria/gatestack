@@ -329,7 +329,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 <div class="row">
                     <div class="col-md-6">
                         <div class="text-center">
-                            <img src="images/what-we-do/img-1.jpg" alt="">
+                            <img src="images/what-we-do/pointsgate.jpg" alt="gate points to crack gate" style="max-width: 70%;">
                         </div>
                     </div>
                     <div class="col-md-6">
