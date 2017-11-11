@@ -339,7 +339,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                                     <h4 class="panel-title">
                                         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                             <i class="mdi mdi-chevron-up nino-icon arrow"></i>
-                                            <i class="mdi mdi-camera nino-icon"></i> 
+                                            <i class="mdi mdi-apple-keyboard-command nino-icon fsr"></i> 
                                             Concept Learning
                                         </a>
                                     </h4>
@@ -450,7 +450,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
             <div class="container">
             <div class="row team">
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/mukul.jpg">
+                        <img class="img-responsive" src="images/picTeam/picT1.png">
                         <h4>Mukul Dilwaria</h4>
                         <h5>Founder</h5>
                         <p>IIT Indore Alum, Dreamer, Startup Junkie </p>
