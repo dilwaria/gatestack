@@ -903,21 +903,21 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                                 <a class="articleThumb fsr" href="#"><img src="images/our-blog/img-4.jpg" alt=""></a>
                                 <div class="info">
                                     <h3 class="articleTitle"><a href="https://gatestack.in/t/gate-strategy-that-can-make-a-huge-difference-in-rank-1-1-2/408" target="_blank">Gate strategy that can make a huge difference in rank( 1 + 1 = 2 )</a></h3>
-                                    <div class="date">Jan 9, 2016</div>
+                                    <div class="date">Aug 9, 2017</div>
                                 </div>
                             </li>
                             <li layout="row" class="verticalCenter">
                                 <a class="articleThumb fsr" href="#"><img src="images/our-blog/img-5.jpg" alt=""></a>
                                 <div class="info">
                                     <h3 class="articleTitle"><a href="https://gatestack.in/t/topic-division-and-how-to-prepare-for-gate-2018-full-list-in-next-3-days/682" target="_blank">Topic division and how to prepare for Gate 2018 </a></h3>
-                                    <div class="date">Jan 9, 2016</div>
+                                    <div class="date">Sept 19, 2017</div>
                                 </div>
                             </li>
                             <li layout="row" class="verticalCenter">
                                 <a class="articleThumb fsr" href="#"><img src="images/our-blog/img-6.jpg" alt=""></a>
                                 <div class="info">
                                     <h3 class="articleTitle"><a href="https://gatestack.in/t/books-resources-for-preparation-of-gate-cse-2018/146" target="_blank">Books/resources for preparation of gate cse 2018</a></h3>
-                                    <div class="date">Jan 9, 2016</div>
+                                    <div class="date">Oct 3, 2017</div>
                                 </div>
                             </li>
                         </ul>
