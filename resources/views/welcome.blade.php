@@ -452,7 +452,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
             <div class="container">
             <div class="row team">
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/mukul.jpg">
+                        <img class="img-responsive img-circle" src="images/picTeam/mukul.jpg">
                         <h4>Mukul Dilwaria</h4>
                         <h5>Founder</h5>
                         <p>IIT Indore Alum, Dreamer, Startup Junkie </p>
@@ -466,7 +466,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
             
             
                 <div class="col-md-4">
-                        <img class="img-responsive" src="images/picTeam/picT2.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/picT2.png">
                         <h4>Tarun Prakash</h4>
                         <h5>CEO</h5>
                         <p>IIT Indore Alum</p>
@@ -480,7 +480,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
         
             
                 <div class="col-md-4 b3">
-                        <img class="img-responsive" src="images/picTeam/picT3.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/picT3.png">
                         <h4>Abhinav Sharma</h4>
                         <h5>CTO</h5>
                         <p>PEC Alum</p>
@@ -493,7 +493,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/picT1.png">
                         <h4>Ruturaj Mohanty</h4>
                         <h5>Product Manager</h5>
                         <p>Bhuvaneshwar</p>
@@ -506,7 +506,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/picT1.png">
                         <h4>Devendera Mittal</h4>
                         <h5>Mentor</h5>
                         <p>IIT Alum - Ex-WalmartLabs,Microsoft</p>
@@ -519,7 +519,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive" src="images/picTeam/picT1.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/picT1.png">
                         <h4>Jaipreet</h4>
                         <h5>Mentor</h5>
                         <p>Air-7(GATE 2015) IIT, IIsc Alum</p>
@@ -882,7 +882,7 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                                 <span class="text">Follow Us: </span>
                                 <a href="https://www.facebook.com/GateStack.in/" target="_blank" class="nino-icon"><i class="mdi mdi-facebook"></i></a>
                                 <a href="" class="nino-icon"><i class="mdi mdi-twitter"></i></a>
-                                <a href="" class="nino-icon"><i class="mdi mdi-instagram"></i></a>
+                                <a href="" class="nino-icon"><i class="mdi mdi-linkedin"></i></a>
                                
                             </div>
                         </div>
