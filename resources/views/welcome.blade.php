@@ -93,7 +93,7 @@
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
                         <h2 class="nino-sectionHeading">
-                            <span class="nino-subHeading">C</span>
+                            <span class="nino-subHeading"></span>
                             Welcome <br>to GateStack
                         </h2>
                         <a href="#" class="nino-btn">Learn more</a>
@@ -108,16 +108,16 @@
                     <div class="item">
                         <h2 class="nino-sectionHeading">
                             <span class="nino-subHeading">Discuss</span>
-                            Welcome <br>to GateStack
+                            Welcome to Discussion Forum.<br> Seek help from Mentors
                         </h2>
-                        <a href="#" class="nino-btn">Learn more</a>
+                        <a href="https://gatestack.in" class="nino-btn">Enter The Discussion</a>
                     </div>
                     <div class="item">
                         <h2 class="nino-sectionHeading">
                             <span class="nino-subHeading">Practice Test</span>
-                            Welcome <br>to MoGo
+                            Comming<br>Soon
                         </h2>
-                        <a href="#" class="nino-btn">Learn more</a>
+                        <a href="#" class="nino-btn">Take a Test</a>
                     </div>
                 </div>
 
