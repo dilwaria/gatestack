@@ -75,7 +75,7 @@
                                 <li><a href="#nino-story">About</a></li>
                                 <li><a href="#nino-services">Methodology</a></li>
                                 <li><a href="#nino-ourTeam">Our Team</a></li>
-                                <li><a href="#nino-portfolio">Work</a></li>
+                                <li><a href="https://gatestack.in" target="_blank">Discuss</a></li>
                                 <li><a href="#nino-latestBlog">Blog</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
@@ -95,7 +95,8 @@
                         <h2 class="nino-sectionHeading">
                             <span class="nino-subHeading"></span>
                             Welcome to GateStack. <br>
-                            ! An approach to crack the GATE !
+                            ! An approach to crack the GATE ! <br>
+                            ! Conceptualizing the unique way of cracking the exam ! 
                         </h2>
                         <a href="#" class="nino-btn">Learn more</a>
                     </div>
