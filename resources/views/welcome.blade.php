@@ -167,7 +167,7 @@
                                     <i class="mdi mdi-account-multiple nino-icon"></i>
                                     LEARN
                                 </span>
-                                <img src="images/story/img-1.jpg" alt="">
+                                <img src="images/story/learning.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                                     <i class="mdi mdi-image-filter-center-focus-weak nino-icon"></i>
                                     DISCUSS
                                 </span>
-                                <img src="images/story/img-2.jpg" alt="">
+                                <img src="images/story/discussion.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -189,7 +189,7 @@
                                     <i class="mdi mdi-airplay nino-icon"></i>
                                     PRACTICE
                                 </span>
-                                <img src="images/story/img-3.jpg" alt="">
+                                <img src="images/story/test.png" alt="">
                             </a>
                         </div>
                     </div>
