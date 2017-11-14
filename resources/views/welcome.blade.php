@@ -94,14 +94,15 @@
                     <div class="item active">
                         <h2 class="nino-sectionHeading">
                             <span class="nino-subHeading"></span>
-                            Welcome <br>to GateStack
+                            Welcome to GateStack. <br>
+                            ! An approach to crack the GATE !
                         </h2>
                         <a href="#" class="nino-btn">Learn more</a>
                     </div>
                     <div class="item">
                         <h2 class="nino-sectionHeading">
                             <span class="nino-subHeading">Learn</span>
-                            Welcome <br>to Gatestack
+                            Welcome to Learning - Discuss - Practice 
                         </h2>
                         <a href="#" class="nino-btn">Learn more</a>
                     </div>
@@ -110,14 +111,14 @@
                             <span class="nino-subHeading">Discuss</span>
                             Welcome to Discussion Forum.<br> Seek help from Mentors
                         </h2>
-                        <a href="https://gatestack.in" class="nino-btn">Enter The Discussion</a>
+                        <a href="https://gatestack.in"  target="_blank" class="nino-btn">Enter The Discussion</a>
                     </div>
                     <div class="item">
                         <h2 class="nino-sectionHeading">
                             <span class="nino-subHeading">Practice Test</span>
                             Comming<br>Soon
                         </h2>
-                        <a href="#" class="nino-btn">Take a Test</a>
+                        <a href="#" class="nino-btn">Start Test</a>
                     </div>
                 </div>
 
