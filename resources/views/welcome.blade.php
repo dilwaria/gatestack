@@ -876,17 +876,13 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                             Gate-CSE preperation, discussion, mentorship, practice tests. A total 365 view coverage for GATE-CSE aspirants .
                         </p>
                         <div class="nino-followUs">
-                            <div class="totalFollow"><span>15k</span> followers</div>
+                            <div class="totalFollow"><span>1.5k</span> followers</div>
                             <div class="socialNetwork">
                                 <span class="text">Follow Us: </span>
-                                <a href="" class="nino-icon"><i class="mdi mdi-facebook"></i></a>
+                                <a href="https://www.facebook.com/GateStack.in/" target="_blank" class="nino-icon"><i class="mdi mdi-facebook"></i></a>
                                 <a href="" class="nino-icon"><i class="mdi mdi-twitter"></i></a>
                                 <a href="" class="nino-icon"><i class="mdi mdi-instagram"></i></a>
-                                <a href="" class="nino-icon"><i class="mdi mdi-pinterest"></i></a>
-                                <a href="" class="nino-icon"><i class="mdi mdi-google-plus"></i></a>
-                                <a href="" class="nino-icon"><i class="mdi mdi-youtube-play"></i></a>
-                                <a href="" class="nino-icon"><i class="mdi mdi-dribbble"></i></a>
-                                <a href="" class="nino-icon"><i class="mdi mdi-tumblr"></i></a>
+                               
                             </div>
                         </div>
                         <form action="" class="nino-subscribeForm">
@@ -906,21 +902,21 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                             <li layout="row" class="verticalCenter">
                                 <a class="articleThumb fsr" href="#"><img src="images/our-blog/img-4.jpg" alt=""></a>
                                 <div class="info">
-                                    <h3 class="articleTitle"><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing</a></h3>
+                                    <h3 class="articleTitle"><a href="https://gatestack.in/t/gate-strategy-that-can-make-a-huge-difference-in-rank-1-1-2/408" target="_blank">Gate strategy that can make a huge difference in rank( 1 + 1 = 2 )</a></h3>
                                     <div class="date">Jan 9, 2016</div>
                                 </div>
                             </li>
                             <li layout="row" class="verticalCenter">
                                 <a class="articleThumb fsr" href="#"><img src="images/our-blog/img-5.jpg" alt=""></a>
                                 <div class="info">
-                                    <h3 class="articleTitle"><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing</a></h3>
+                                    <h3 class="articleTitle"><a href="https://gatestack.in/t/topic-division-and-how-to-prepare-for-gate-2018-full-list-in-next-3-days/682" target="_blank">Topic division and how to prepare for Gate 2018 </a></h3>
                                     <div class="date">Jan 9, 2016</div>
                                 </div>
                             </li>
                             <li layout="row" class="verticalCenter">
                                 <a class="articleThumb fsr" href="#"><img src="images/our-blog/img-6.jpg" alt=""></a>
                                 <div class="info">
-                                    <h3 class="articleTitle"><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing</a></h3>
+                                    <h3 class="articleTitle"><a href="https://gatestack.in/t/books-resources-for-preparation-of-gate-cse-2018/146" target="_blank">Books/resources for preparation of gate cse 2018</a></h3>
                                     <div class="date">Jan 9, 2016</div>
                                 </div>
                             </li>
