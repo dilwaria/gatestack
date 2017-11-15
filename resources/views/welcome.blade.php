@@ -493,10 +493,10 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive img-circle" src="images/picTeam/picT1.png">
-                        <h4>Ruturaj Mohanty</h4>
-                        <h5>Product Manager</h5>
-                        <p>Bhuvaneshwar</p>
+                        <img class="img-responsive img-circle" src="images/picTeam/man.png">
+                        <h4>Chirag Bairwa</h4>
+                        <h5>Mentor</h5>
+                        <p>AIR-72(GATE-2015)IIT Alum, Ex-PowerGrid, IIM Lucknow</p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
