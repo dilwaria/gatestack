@@ -713,7 +713,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/img-1.jpg" alt="">
+                                <img class="img-circle" src="images/happy-client/girl.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Apurva</h4>
@@ -727,7 +727,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/img-2.jpg" alt="">
+                                <img class="img-circle" src="images/happy-client/girl.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Spriha</h4>
@@ -744,7 +744,7 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/img-3.jpg" alt="">
+                                <img class="img-circle" src="images/happy-client/img-1.svg" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Mohit</h4>
@@ -758,7 +758,7 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="" alt="">
+                                <img class="img-circle" src="images/happy-client/girl.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Shweta</h4>
