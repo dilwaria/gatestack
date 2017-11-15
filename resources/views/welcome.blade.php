@@ -480,7 +480,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
         
             
                 <div class="col-md-4 b3">
-                        <img class="img-responsive img-circle" src="images/picTeam/picT3.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/img-1.svg">
                         <h4>Abhinav Sharma</h4>
                         <h5>CTO</h5>
                         <p>PEC Alum</p>
@@ -519,10 +519,10 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive img-circle" src="images/picTeam/picT1.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/man.png">
                         <h4>Jaipreet</h4>
                         <h5>Mentor</h5>
-                        <p>Air-7(GATE 2015) IIT, IIsc Alum</p>
+                        <p>IIT, IIsc Alum</p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
