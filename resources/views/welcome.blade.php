@@ -480,7 +480,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
         
             
                 <div class="col-md-4 b3">
-                        <img class="img-responsive img-circle" src="images/picTeam/2man.svg">
+                        <img class="img-responsive img-circle" src="images/picTeam/2man.png">
                         <h4>Abhinav Sharma</h4>
                         <h5>CTO</h5>
                         <p>PEC Alum</p>
