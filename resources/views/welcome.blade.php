@@ -466,7 +466,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
             
             
                 <div class="col-md-4">
-                        <img class="img-responsive img-circle" src="images/picTeam/picT2.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/man.png">
                         <h4>Tarun Prakash</h4>
                         <h5>CEO</h5>
                         <p>IIT Indore Alum</p>
@@ -480,7 +480,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
         
             
                 <div class="col-md-4 b3">
-                        <img class="img-responsive img-circle" src="images/picTeam/img-1.svg">
+                        <img class="img-responsive img-circle" src="images/picTeam/2man.svg">
                         <h4>Abhinav Sharma</h4>
                         <h5>CTO</h5>
                         <p>PEC Alum</p>
@@ -506,7 +506,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive img-circle" src="images/picTeam/picT1.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/2man.png">
                         <h4>Devendera Mittal</h4>
                         <h5>Mentor</h5>
                         <p>IIT Alum - Ex-WalmartLabs,Microsoft</p>
@@ -519,7 +519,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive img-circle" src="images/picTeam/man.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/3man.png">
                         <h4>Jaipreet</h4>
                         <h5>Mentor</h5>
                         <p>IIT, IIsc Alum</p>
@@ -713,7 +713,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/girl.png" alt="">
+                                <img class="img-circle" src="images/happy-client/1girl.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Apurva</h4>
@@ -727,7 +727,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/girl.png" alt="">
+                                <img class="img-circle" src="images/happy-client/girl2.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Spriha</h4>
@@ -744,7 +744,7 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/img-1.svg" alt="">
+                                <img class="img-circle" src="images/happy-client/man.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Mohit</h4>
