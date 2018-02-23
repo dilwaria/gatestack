@@ -485,3 +485,128 @@ width: 100%;
 margin-left: 10%;
 }
 }
+
+/***************************************************************************************
+                                test cases
+*****************************************************************************************/
+#test{
+    padding-top: 10vh;
+    padding-left: 10vh;
+}
+#test .card{
+    /*width: 250px;*/
+    width:92%;
+    height:350px;
+    border:2px solid lightgray;
+    position: relative;
+    display: inline-block;
+    margin-right:15px;
+    margin-left:15px;
+}
+#test .card .tag{
+    background-color:rgb(255, 196, 64);
+    padding: 3px 18px 3px 6px;
+    position: absolute;
+    top: 10px;
+
+}
+#test .card .tag::after{
+    content:"";
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: rgb(255, 196, 64);
+    border-width:14px 14px 13px 0;
+    border-style: solid;
+    color: #fff;
+    border-color: transparent #fff transparent transparent;
+}
+#test .card .tag::before{
+    content: "";
+    display: inline-block;
+    position: absolute;
+    right: 100%;
+    background-color:#f3a800;
+    width: 8px;
+    height: 100%;
+}
+#test #cart{
+    overflow:hidden !important;
+}
+#test .content{
+    padding:18px 12px 10px 15px;
+}
+#cart{
+    padding: 70px;
+}
+#cart .card{
+    margin-left:22px;
+    margin-right:20px;
+}
+#cart .card .tag{
+    color: #fff;
+}
+#cart .content h4{
+    line-height:2rem;
+    font-weight:600;
+    font-size: 18px;
+}
+#cart .content .title{
+    min-height: 40px;
+}
+#test #cart .butn{
+    text-align: center;
+    padding:5px;
+    width: 98%;
+    font-size: 18px;
+    background-color: #35c6d3;
+    color: #fff;
+    margin-top:10px;
+}
+#test #cart .butn:hover{
+    transform:scale(1.1);
+    opacity: .8;
+}
+#test .fa{
+    font-size:30px;
+    margin-right: 10px;
+}
+#test .fa:hover{
+    color: #fff;
+}
+#test #cart .availability {
+    margin-bottom: 8px;
+}
+#test #cart .availability h5{
+    text-transform: capitalize;
+    margin:17px 0px;
+}
+#test #cart .avail{
+    text-transform: capitalize;
+    color: gray;
+}
+#test #cart .badge{
+    margin-bottom: 5px;
+}
+#test #cart .content hr{
+    margin:8px 0;
+}
+#test #cart .content .stats{
+    font-weight: bold;
+    color: gray;
+}
+#test #cart .badge{
+        display: inline-block;
+    background: #a3a3a3;
+    color: #fff;
+    padding: 2px 6px;
+    line-height: 1.1;
+    margin: 0 4px 0 0;
+    font-size: 12px;
+    border-radius: 30px;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
