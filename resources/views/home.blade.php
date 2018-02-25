@@ -3,6 +3,8 @@
     <head>
         <meta charset="utf-8">
         <title>Basic AlgorithmStack Template</title>
+        <script src="js/jquery.min.js"></script>
+        <script src="css/owl-carousel/owl.carousel.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
         <link rel="stylesheet" type="text/css" href="css/materialdesignicons.min.css" />
@@ -222,14 +224,188 @@
 
                 </div>
             </div>
+            <div id="cart1" class="test  owl-carousel owl-theme ">
+                <div class="card">
+                    <div class="tag">
+                        FREE
+                    </div><br>
+                    <div class="content">
+                        <div class="title">
+                            <h4>
+                            Free Theory Of Computation.
+                            </h4>
+                        </div>
+                        <div class="badge">
+                            <span class="badge mousePointer customBadge">Gate cs</span>
+                        </div>
+                        <div class="availability">
+                            <h5>available till : <span class="avail"> 31 Mar 2018</span></h5>
+                        </div>
+                        <div>
+                            <h6><span class="stats">65 </span>question</h6>
+                            <hr>
+                            <h6><span class="stats">100 </span>marks</h6>
+                            <hr>
+                            <h6><span class="stats">120 </span>minutes</h6>
+                        </div>
+                        <div class="cart">
+                            <button class="butn"> <span><i class="fa fa-cart-plus"></i></span>add to cart</button>
+                        </div>
+                    </div>
 
-            <script src="js/jquery.js"></script>
-            <script src="css/owl-carousel/owl.carousel.min.js"></script>
+                </div>
+                <div class="card">
+                    <div class="tag">
+                        FREE
+                    </div><br>
+                    <div class="content">
+                        <div class="title">
+                            <h4>
+                            Live Test 1
+                            </h4>
+                        </div>
+                        <div class="badge">
+                            <span class="badge mousePointer customBadge">Gate cs</span>
+                        </div>
+                        <div class="availability">
+                            <h5>available till : <span class="avail"> 31 Mar 2018</span></h5>
+                        </div>
+                        <div>
+                            <h6><span class="stats">65 </span>question</h6>
+                            <hr>
+                            <h6><span class="stats">100 </span>marks</h6>
+                            <hr>
+                            <h6><span class="stats">120 </span>minutes</h6>
+                        </div>
+                        <div class="cart">
+                            <button class="butn"><span><i class="fa fa-cart-plus"></i></span> add to cart</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card" >
+                    <div class="tag">
+                        FREE
+                    </div><br>
+                    <div class="content">
+                        <div class="title">
+                            <h4>
+                            Free Compiler Design
+                            </h4>
+                        </div>
+                        <div class="badge">
+                            <span class="badge mousePointer customBadge">Gate cs</span>
+                        </div>
+                        <div class="availability">
+                            <h5>available till : <span class="avail"> 31 Mar 2018</span></h5>
+                        </div>
+                        <div>
+                            <h6><span class="stats">65 </span>question</h6>
+                            <hr>
+                            <h6><span class="stats">100 </span>marks</h6>
+                            <hr>
+                            <h6><span class="stats">120 </span>minutes</h6>
+                        </div>
+                        <div class="cart">
+                            <button class="butn"><span><i class="fa fa-cart-plus"></i></span> add to cart</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="tag">
+                        FREE
+                    </div><br>
+                    <div class="content">
+                        <div class="title">
+                            <h4>
+                            Live Test 2
+                            </h4>
+                        </div>
+                        <div class="badge">
+                            <span class="badge mousePointer customBadge">Gate cs</span>
+                        </div>
+                        <div class="availability">
+                            <h5>available till : <span class="avail"> 31 Mar 2018</span></h5>
+                        </div>
+                        <div>
+                            <h6><span class="stats">65 </span>question</h6>
+                            <hr>
+                            <h6><span class="stats">100 </span>marks</h6>
+                            <hr>
+                            <h6><span class="stats">120 </span>minutes</h6>
+                        </div>
+                        <div class="cart">
+                            <button class="butn"><span><i class="fa fa-cart-plus"></i></span> add to cart</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="tag">
+                        FREE
+                    </div><br>
+                    <div class="content">
+                        <div class="title">
+                            <h4>
+                            Free Data Structures
+                            </h4>
+                        </div>
+                        <div class="badge">
+                            <span class="badge mousePointer customBadge">Gate cs</span>
+                        </div>
+                        <div class="availability">
+                            <h5>available till : <span class="avail"> 31 Mar 2018</span></h5>
+                        </div>
+                        <div>
+                            <h6><span class="stats">65 </span>question</h6>
+                            <hr>
+                            <h6><span class="stats">100 </span>marks</h6>
+                            <hr>
+                            <h6><span class="stats">120 </span>minutes</h6>
+                        </div>
+                        <div class="cart">
+                            <button class="butn"><span><i class="fa fa-cart-plus"></i></span> add to cart</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card" >
+                    <div class="tag">
+                        FREE
+                    </div><br>
+                    <div class="content">
+                        <div class="title">
+                            <h4>
+                            Live Test 3
+                            </h4>
+                        </div>
+                        <div class="badge">
+                            <span class="badge mousePointer customBadge">Gate cs</span>
+                        </div>
+                        <div class="availability">
+                            <h5>available till : <span class="avail"> 31 Mar 2018</span></h5>
+                        </div>
+                        <div>
+                            <h6><span class="stats">65 </span>question</h6>
+                            <hr>
+                            <h6><span class="stats">100 </span>marks</h6>
+                            <hr>
+                            <h6><span class="stats">120 </span>minutes</h6>
+                        </div>
+                        <div class="cart">
+                            <button class="butn "><span><i class="fa fa-cart-plus"></i></span> add to cart</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
             <script type="text/javascript">
                         $(function () {
             $("#cart").owlCarousel({
             items: 4,
-            autoplay: true,
+            autoplay: false,
             smartSpeed: 700,
             // loop: true,
             nav:true,
@@ -243,7 +419,7 @@
                     640:{
                         items:2
                     },
-                    779: {
+                    840: {
                         items: 3
                     },
                     1200:{
@@ -256,5 +432,6 @@
             });
             });
             </script>
+
         </body>
     </html>

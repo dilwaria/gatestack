@@ -485,7 +485,6 @@ width: 100%;
 margin-left: 10%;
 }
 }
-
 /***************************************************************************************
                                 test cases
 *****************************************************************************************/
@@ -500,8 +499,7 @@ margin-left: 10%;
     border:2px solid lightgray;
     position: relative;
     display: inline-block;
-    margin-right:15px;
-    margin-left:15px;
+    margin:15px;
 }
 #test .card .tag{
     background-color:rgb(255, 196, 64);
@@ -534,28 +532,33 @@ margin-left: 10%;
 #test #cart{
     overflow:hidden !important;
 }
+#test #cart1{
+    overflow:hidden !important;
+}
 #test .content{
     padding:18px 12px 10px 15px;
 }
 #cart{
     padding: 70px;
 }
-#cart .card{
-    margin-left:22px;
-    margin-right:20px;
+#cart1{
+    padding: 20px;
 }
 #cart .card .tag{
     color: #fff;
 }
-#cart .content h4{
+#cart1 .card .tag{
+    color: #fff;
+}
+#cart .content h4, #cart1 .content h4{
     line-height:2rem;
     font-weight:600;
     font-size: 18px;
 }
-#cart .content .title{
+#cart .content .title, #cart1 .content .title{
     min-height: 40px;
 }
-#test #cart .butn{
+#test #cart .butn, #test #cart1 .butn{
     text-align: center;
     padding:5px;
     width: 98%;
@@ -564,7 +567,7 @@ margin-left: 10%;
     color: #fff;
     margin-top:10px;
 }
-#test #cart .butn:hover{
+#test #cart .butn:hover, #test #cart1 .butn:hover{
     transform:scale(1.1);
     opacity: .8;
 }
@@ -575,28 +578,28 @@ margin-left: 10%;
 #test .fa:hover{
     color: #fff;
 }
-#test #cart .availability {
+#test #cart .availability, #test #cart1 .availability  {
     margin-bottom: 8px;
 }
-#test #cart .availability h5{
+#test #cart .availability h5, #test #cart1 .availability h5{
     text-transform: capitalize;
     margin:17px 0px;
 }
-#test #cart .avail{
+#test #cart .avail, #test #cart1 .avail{
     text-transform: capitalize;
     color: gray;
 }
-#test #cart .badge{
+#test #cart .badge, #test #cart1 .badge{
     margin-bottom: 5px;
 }
-#test #cart .content hr{
+#test #cart .content hr, #test #cart1 .content hr{
     margin:8px 0;
 }
-#test #cart .content .stats{
+#test #cart .content .stats, #test #cart1 .content .stats{
     font-weight: bold;
     color: gray;
 }
-#test #cart .badge{
+#test #cart .badge, #test #cart1 .badge{
         display: inline-block;
     background: #a3a3a3;
     color: #fff;
@@ -609,4 +612,23 @@ margin-left: 10%;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+#cart1{
+    display: none;
+}
+@media(max-width:650px){
+.owl-nav{
+    display: none;
+}
+#test{
+    padding-top:2vh;
+    padding-left:2vh;
+}
+#cart{
+    display: none;
+}
+#cart1{
+    display: inline-block;
+}
+
 }
