@@ -54,6 +54,9 @@ jQuery(function($) {
 	
 	/* =============== SMOOTH SCROOL EFFECT =============== */
 	$('#nino-navbar ul li a').on('click',function (e) {
+	    if(this.hash.length===0){
+                return;
+            }
 	    e.preventDefault();
 	    var target = this.hash,
 	    $target = $(target);
