@@ -242,7 +242,7 @@
                             <i class="mdi mdi-apple-keyboard-command nino-icon fsr"></i>
                             <div>
                                 <h4 class="nino-serviceTitle">Concept Learning</h4>
-                                <p>Learn the concepts in an easy way. The in-depth analysis of concepts are the building blocks of your success.</p>
+                                <p>Concepts are integeral part of every subject, we focus on concept building and nuturing in bottom-up way to extract maximum benefit.</p>
                             </div>
                         </div>
                     </div>
@@ -251,7 +251,7 @@
                             <i class="mdi mdi-blender nino-icon fsr"></i>
                             <div>
                                 <h4 class="nino-serviceTitle">Discussion</h4>
-                                <p>Learn and Grow is the motto of GateStack. Discuss your doubts and grow along with your peers.</p>
+                                <p>Concept building needs a lot of out of box discussion. Our discussion platform is full of mind-boggling questions.</p>
                             </div>
                         </div>
                     </div>
@@ -260,7 +260,7 @@
                             <i class="mdi mdi-bookmark-plus-outline nino-icon fsr"></i>
                             <div>
                                 <h4 class="nino-serviceTitle">Mentorship</h4>
-                                <p>Learn along with Experts. Who better to give advise other than the Experts who have been through this phase.</p>
+                                <p>After discussion, reaching out to final and qualified answer is an important part to concept building, which is taken care by hard-working mentors.</p>
                             </div>
                         </div>
                     </div>
@@ -269,7 +269,7 @@
                             <i class="mdi mdi-buffer nino-icon fsr"></i>
                             <div>
                                 <h4 class="nino-serviceTitle">Content Stack</h4>
-				<p>Content is the King. We belive in providing the updated content for clear understanding of the concepts.</p>
+                                <p>Good and reliable quality of content quantifies the resouce pool of knowledge. We take care to provide best quality content resource made by pioneers of technology.</p>
                             </div>
                         </div>
                     </div>
@@ -278,7 +278,7 @@
                             <i class="mdi mdi-desktop-mac nino-icon fsr"></i>
                             <div>
                                 <h4 class="nino-serviceTitle">Practice Test</h4>
-                                <p>Practice, revision and test is a pyschologically proven method to build concepts and assimilate them life long. </p>
+                                <p>Practice, revision and test is a pyschologically prove method to build concepts and assimilate them life long. </p>
                             </div>
                         </div>
                     </div>
@@ -287,7 +287,7 @@
                             <i class="mdi mdi-diamond nino-icon fsr"></i>
                             <div>
                                 <h4 class="nino-serviceTitle">Motivation</h4>
-                                <p>With everything aside the motivation is the factor which makes or rakes you. Be motivated, stay focussed. Gate is yours.</p>
+                                <p>With everything aside the motivation is the role which makes or rakes you. We motivate everyone day and night.</p>
                             </div>
                         </div>
                     </div>
@@ -465,7 +465,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
             
             
                 <div class="col-md-4">
-                        <img class="img-responsive img-circle" src="images/picTeam/man.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/picT2.png">
                         <h4>Tarun Prakash</h4>
                         <h5>CEO</h5>
                         <p>IIT Indore Alum</p>
@@ -479,7 +479,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
         
             
                 <div class="col-md-4 b3">
-                        <img class="img-responsive img-circle" src="images/picTeam/2man.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/img-1.svg">
                         <h4>Abhinav Sharma</h4>
                         <h5>CTO</h5>
                         <p>PEC Alum</p>
@@ -505,7 +505,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive img-circle" src="images/picTeam/2man.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/picT1.png">
                         <h4>Devendera Mittal</h4>
                         <h5>Mentor</h5>
                         <p>IIT Alum - Ex-WalmartLabs,Microsoft</p>
@@ -518,7 +518,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                 </div>
 
                 <div class="col-md-4 b1">
-                        <img class="img-responsive img-circle" src="images/picTeam/3man.png">
+                        <img class="img-responsive img-circle" src="images/picTeam/man.png">
                         <h4>Jaipreet</h4>
                         <h5>Mentor</h5>
                         <p>IIT, IIsc Alum</p>
@@ -712,7 +712,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/1girl.png" alt="">
+                                <img class="img-circle" src="images/happy-client/girl.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Apurva</h4>
@@ -726,7 +726,7 @@ We rapid up the student preparation cycle for prestigious GATE EXAM by providing
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/girl2.png" alt="">
+                                <img class="img-circle" src="images/happy-client/girl.png" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Spriha</h4>
@@ -743,7 +743,7 @@ for any aspiring student to use. It is a one stop solution to every Gate problem
                     <div class="col-md-6">
                         <div layout="row" class="item">
                             <div class="nino-avatar fsr">
-                                <img class="img-circle" src="images/happy-client/man.png" alt="">
+                                <img class="img-circle" src="images/happy-client/img-1.svg" alt="">
                             </div>
                             <div class="info">
                                 <h4 class="name">Mohit</h4>
